@@ -21,12 +21,12 @@ This bot can help you grow your **Telegram group or channel** effectively! 🌟
 ### 1️⃣ **Set Up Your Project**
 
 1. Open your terminal and create a new project folder:
-   ```bash
+   ```
    mkdir referral-bot
    cd referral-bot
    ```
 2. Initialize your project and install dependencies:
-   ```bash
+   ```
    npm init -y
    npm install node-telegram-bot-api
    ```
@@ -85,7 +85,7 @@ console.log('🤖 Bot is running...');
 
 1. Save your file and run the bot using the command:
    ```bash
-   node bot.js
+   node test.js
    ```
 2. Your bot is now active and ready to handle `/start` and `/score` commands! 🎉  
 
