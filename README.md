@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Build a Telegram Referral Bot with Node.js 💻
 
 Hello, developers! 👋  
@@ -110,4 +109,4 @@ Replace `BOT_USERNAME` with your bot's username and `USER_ID` with the inviter�
 
 Happy coding! 🚀  
 For more, follow: [@drabolfazlcv](https://t.me/drabolfazlcv)
-```
+
